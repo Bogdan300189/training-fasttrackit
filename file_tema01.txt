@@ -1,1 +1,2 @@
-Acesta este al diulea document editat pentru a fi trimis din etapa de "working directory" in etapa de "staging"
+Acesta este al doilea document editat pentru a fi trimis din etapa de "working directory" in etapa de "staging"
+Acest documnet a fost corectat!
