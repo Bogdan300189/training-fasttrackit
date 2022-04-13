@@ -1,2 +1,4 @@
 Acesta este al doilea document editat pentru a fi trimis din etapa de "working directory" in etapa de "staging"
 Acest documnet a fost corectat!
+
+Acest text se va scrie in branch-ul "feature"
